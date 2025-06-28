@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a7dadd-365c-4119-8b95-a36fb69214ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_open_folder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_coordinates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/job_automator.py" afterDir="false" />
+    <list default="true" id="e5a7dadd-365c-4119-8b95-a36fb69214ef" name="Changes" comment="Chrome automation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job_automator.py" beforeDir="false" afterPath="$PROJECT_DIR$/job_automator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,15 +66,36 @@
       <updated>1750617856939</updated>
       <workItem from="1750617858169" duration="1202000" />
       <workItem from="1750665699930" duration="498000" />
-      <workItem from="1751109793122" duration="675000" />
+      <workItem from="1751109793122" duration="1467000" />
     </task>
+    <task id="LOCAL-00001" summary="Chrome automation">
+      <option name="closed" value="true" />
+      <created>1751110585944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751110585944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chrome automation">
+      <option name="closed" value="true" />
+      <created>1751110596284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751110596284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chrome automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chrome automation" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject1$job_automator.coverage" NAME="job_automator Coverage Results" MODIFIED="1751110159187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$job_automator.coverage" NAME="job_automator Coverage Results" MODIFIED="1751110717120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$auto_open_folder.coverage" NAME="auto_open_folder Coverage Results" MODIFIED="1750662373381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$find_coordinates.coverage" NAME="find_coordinates Coverage Results" MODIFIED="1750618192046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
