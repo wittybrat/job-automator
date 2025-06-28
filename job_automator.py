@@ -19,7 +19,7 @@ def automate_job_application():
     chrome_profile_name = "Aman pro" # Or "Profile 1", "Profile 2", etc., based on your chrome://version
 
     search_query = "SDE jobs for freshers in Bengaluru"
-    target_job_portal = "indeed.com" # Or indeed.com, linkedin.com, etc.
+    target_job_portal = "linkedin.com" # Or indeed.com, linkedin.com, etc.
 
     # --- Step 1: Configure Chrome Options to Use a Specific Profile ---
     chrome_options = Options()
