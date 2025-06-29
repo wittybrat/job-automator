@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a7dadd-365c-4119-8b95-a36fb69214ef" name="Changes" comment="Chrome automation" />
+    <list default="true" id="e5a7dadd-365c-4119-8b95-a36fb69214ef" name="Changes" comment="Chrome automation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -64,7 +67,7 @@
       <updated>1750617856939</updated>
       <workItem from="1750617858169" duration="1202000" />
       <workItem from="1750665699930" duration="498000" />
-      <workItem from="1751109793122" duration="1940000" />
+      <workItem from="1751109793122" duration="8862000" />
     </task>
     <task id="LOCAL-00001" summary="Chrome automation">
       <option name="closed" value="true" />
@@ -90,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751111366401</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chrome automation">
+      <option name="closed" value="true" />
+      <created>1751111760701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751111760701</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Chrome automation">
+      <option name="closed" value="true" />
+      <created>1751177361617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751177361617</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +120,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Chrome automation" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject1$job_automator.coverage" NAME="job_automator Coverage Results" MODIFIED="1751110717120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject1$job_automator.coverage" NAME="job_automator Coverage Results" MODIFIED="1751176656194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$auto_open_folder.coverage" NAME="auto_open_folder Coverage Results" MODIFIED="1750662373381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject1$find_coordinates.coverage" NAME="find_coordinates Coverage Results" MODIFIED="1750618192046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
