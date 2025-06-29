@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5a7dadd-365c-4119-8b95-a36fb69214ef" name="Changes" comment="Chrome automation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5a7dadd-365c-4119-8b95-a36fb69214ef" name="Changes" comment="Chrome automation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <updated>1750617856939</updated>
       <workItem from="1750617858169" duration="1202000" />
       <workItem from="1750665699930" duration="498000" />
-      <workItem from="1751109793122" duration="8862000" />
+      <workItem from="1751109793122" duration="9161000" />
     </task>
     <task id="LOCAL-00001" summary="Chrome automation">
       <option name="closed" value="true" />
